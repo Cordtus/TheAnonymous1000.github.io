@@ -1,6 +1,6 @@
-[submodule "techtracker/themes/future"]
-	path = techtracker/themes/future
-	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
-[submodule "themes/hugo-future-imperfect-slim"]
-	path = themes/hugo-future-imperfect-slim
-	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "techtracker/themes/PaperMod"]
+	path = techtracker/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git clone https://github.com/adityatelange/hugo-PaperMod.git
